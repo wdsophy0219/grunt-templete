@@ -2,7 +2,7 @@
 
 module.exports = function(grunt){
     grunt.initConfig({
-        pkg:grunt.file.readJSON('package.json')
+        pkg:grunt.file.readJSON('package.json'),
         // 플러그인 설정~
         serve:{
           path:"d:/grunt-templete",
