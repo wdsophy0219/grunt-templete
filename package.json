@@ -1,0 +1,24 @@
+{
+  "name": "grunt-templete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdsophy0219/grunt-templete.git"
+  },
+  "author": "dduri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdsophy0219/grunt-templete/issues"
+  },
+  "homepage": "https://github.com/wdsophy0219/grunt-templete#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-serve": "^0.1.6",
+    "serve": "^5.1.4"
+  }
+}
